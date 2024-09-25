@@ -1,1 +1,1 @@
-O código esta no gitnore
+O código esta no gitngore
